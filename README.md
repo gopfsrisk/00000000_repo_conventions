@@ -18,3 +18,9 @@ For our purposes (i.e., version control), we need only use very basic terminal c
 
 Lastly, including a *brief* description of each project inside the project's ```README.md``` will be helpful to remind us of the purpose of each project.
 
+Getting Started:
+
+First, (generate an SSH Key)[https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent] using ```aengland@gopfs.com``` as the email address.
+
+
+
