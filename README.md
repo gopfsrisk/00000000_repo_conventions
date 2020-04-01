@@ -8,9 +8,9 @@ To help keep our work organized, we will create a repository for each project on
 
 ```YYYYMMDD_project_name```
 
-Additionally, for privacy, each repository needs to be set to private and no data will be stored on Github. Data should be stored on the shared drive.
+Additionally, for privacy, each repository needs to be set to **private** and **no data** will be stored on Github. Data should be stored on the shared drive.
 
-Local projects can be "pushed" to GitHub via GitHub's drag and drop or file upload capabilities or via the terminal.
+Local projects can be *pushed* to GitHub via GitHub's drag and drop or file upload capabilities or via the terminal.
 
-For our purposes, we need only use very basic terminal commands which can be found [here](https://www.tutsmake.com/upload-project-files-on-github-using-command-line/).
+For our purposes (i.e., version control), we need only use very basic terminal commands which can be found [here](https://www.tutsmake.com/upload-project-files-on-github-using-command-line/).
 
