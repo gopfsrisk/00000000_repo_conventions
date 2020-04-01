@@ -12,5 +12,5 @@ Additionally, for privacy, each repository needs to be set to private and no dat
 
 Local projects can be "pushed" to GitHub via GitHub's drag and drop or file upload capabilities or via the terminal.
 
-For our purposes, we need only use very basic terminal commands which can be found [here] (https://www.tutsmake.com/upload-project-files-on-github-using-command-line/).
+For our purposes, we need only use very basic terminal commands which can be found [here](https://www.tutsmake.com/upload-project-files-on-github-using-command-line/).
 
