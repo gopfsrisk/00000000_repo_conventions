@@ -14,3 +14,5 @@ Local projects can be *pushed* to GitHub via GitHub's drag and drop or file uplo
 
 For our purposes (i.e., version control), we need only use very basic terminal commands which can be found [here](https://www.tutsmake.com/upload-project-files-on-github-using-command-line/).
 
+Lastly, including a *brief* description of each project inside the project's ```README.md`` will be helpful to remind us of the purpose of each project.
+
