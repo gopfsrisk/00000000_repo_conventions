@@ -22,7 +22,7 @@ Getting Started:
 
 First, [generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
 
-Next, [add the SSH key to the gopfsrisk account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
+Next, [add the SSH key](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the gopfsrisk account.
 
 
 
