@@ -28,7 +28,7 @@ This profile has been created as a place for us to store the code we write safel
 
 ## Getting Started:
 
-1. [Generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
+1. [Generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address (from the terminal).
 * ssh-keygen -t rsa -b 4096 -C "aengland@gopfs.com"
 * When prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 * At the secure passphrase and passphrase comfirmation prompts, hit enter. 
