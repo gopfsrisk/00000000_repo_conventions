@@ -25,6 +25,11 @@ Lastly, including a *brief* description of each project inside the project's ```
 Getting Started:
 
 1. [Generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
+* ssh-keygen -t rsa -b 4096 -C "aengland@gopfs.com"
+* When prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
+* At the secure passphrase and passphrase comfirmation prompts, hit enter. 
+
+Note: keep the terminal open because you will need to know where to find your SSH key in order to add it to the account.
 
 2. [Add the SSH key](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the ```gopfsrisk``` account.
 
