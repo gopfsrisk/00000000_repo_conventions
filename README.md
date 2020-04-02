@@ -29,7 +29,7 @@ Getting Started:
 * When prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 * At the secure passphrase and passphrase comfirmation prompts, hit enter. 
 
-Note: keep the terminal open because you will need to know where to find your SSH key in order to add it to the account.
+Note: keep the terminal open because you will need to know where to find your SSH key in order to add it to the account in the next step.
 
 2. [Add the SSH key](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the ```gopfsrisk``` account.
 
