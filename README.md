@@ -1,5 +1,9 @@
 # 00000000_repo_conventions
 
+---
+
+## Welcome
+
 Welcome to the GitHub profile for the Risk team at Prestige Financial Services.
 
 This profile has been created as a place for us to store the code we write safely and with version control.
@@ -35,7 +39,7 @@ Lastly, including a *brief* description of each project inside the project's ```
 
 ---
 
-## Working with private repositories
+## Working with private repositories:
 
 To clone, change, and push a **private** repository via SSH (from the terminal):
 
@@ -53,7 +57,7 @@ To clone, change, and push a **private** repository via SSH (from the terminal):
 
 ---
 
-## Working with public repositories
+## Working with public repositories:
 
 To clone, change, and push a **public** repository via SSH (from the terminal):
 
