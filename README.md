@@ -8,11 +8,14 @@ Welcome to the GitHub profile for the Risk team at Prestige Financial Services.
 
 This profile has been created as a place for us to store the code we write safely and with version control.
 
-To help keep our projects organized, we will create a repository for each project on which we work with the following naming convention:
+---
 
-```YYYYMMDD_project_name```
+## Rules:
 
-**Do not use spaces** in the names of repositories.
+1. Name repositories using the following convention:
+* ```YYYYMMDD_project_name```
+
+2. **Do not use spaces** in the names of repositories.
 
 Additionally, for privacy, each repository needs to be set to **private** and **no data** will be stored on Github. Data should be stored on the shared drive.
 
