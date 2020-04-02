@@ -12,24 +12,24 @@ To help keep our projects organized, we will create a repository for each projec
 
 Additionally, for privacy, each repository needs to be set to **private** and **no data** will be stored on Github. Data should be stored on the shared drive.
 
-Note: if the repository is an installable package (i.e., [prestige](https://github.com/gopfsrisk/prestige), for example) it does not need to use the naming convention and can be public.
+*Note*: if the repository is an installable package (i.e., [prestige](https://github.com/gopfsrisk/prestige), for example) it does not need to use the naming convention and can be public.
 
 Local projects can be *pushed* to GitHub via GitHub's drag and drop or file upload capabilities or via the terminal.
 
-For our purposes (i.e., version control), we need only use very basic terminal commands which can be found [here](https://www.tutsmake.com/upload-project-files-on-github-using-command-line/).
+For our purposes (i.e., version control), we need only use very basic terminal commands which can be found [here](https://www.tutsmake.com/upload-project-files-on-github-using-command-line/) and toward the bottom of this document.
 
 Lastly, including a *brief* description of each project inside the project's ```README.md``` will be helpful to remind us of the purpose of each project.
 
 ---
 
-Getting Started:
+##Getting Started:
 
 1. [Generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
 * ssh-keygen -t rsa -b 4096 -C "aengland@gopfs.com"
 * When prompted to "Enter a file in which to save the key," press Enter. This accepts the default file location.
 * At the secure passphrase and passphrase comfirmation prompts, hit enter. 
 
-Note: keep the terminal open because you will need to know where to find your SSH key in order to add it to the account in the next step.
+*Note*: keep the terminal open because you will need to know where to find your SSH key in order to add it to the account in the next step.
 
 2. [Add the SSH key](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the ```gopfsrisk``` account.
 
