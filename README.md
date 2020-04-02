@@ -8,6 +8,8 @@ To help keep our projects organized, we will create a repository for each projec
 
 ```YYYYMMDD_project_name```
 
+**Do not use spaces** in the names of repositories.
+
 Additionally, for privacy, each repository needs to be set to **private** and **no data** will be stored on Github. Data should be stored on the shared drive.
 
 Note: if the repository is an installable package (i.e., [prestige](https://github.com/gopfsrisk/prestige), for example) it does not need to use the naming convention and can be public.
