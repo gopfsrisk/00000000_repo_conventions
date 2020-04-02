@@ -22,12 +22,25 @@ Lastly, including a *brief* description of each project inside the project's ```
 
 Getting Started:
 
-First, [generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
+1. [Generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
 
-Next, [add the SSH key](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the ```gopfsrisk``` account.
+2. [Add the SSH key](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the ```gopfsrisk``` account.
 
-Lastly, clone a repository via SSH using ```git clone git@github.com:gopfsrisk/insert_repo_name_here.git```.
+---
 
+To clone, change, and push a repository via SSH (from the terminal):
+
+1. Clone a repository:
+a. ```git clone git@github.com:gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
+
+2. Make changes locally.
+
+3. Push the repository back to GitHub:
+a. ```git init```
+b. ```git add .```
+c. ```git commit -m "Insert short note here."```
+d. ```git remote add origin git@github.com:gopfsrisk/<insert_repo_name_here>.git```
+e. ```git push origin master```
 
 
 
