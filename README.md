@@ -22,7 +22,7 @@ Lastly, including a *brief* description of each project inside the project's ```
 
 ---
 
-##Getting Started:
+## Getting Started:
 
 1. [Generate an SSH key](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) using ```aengland@gopfs.com``` as the email address.
 * ssh-keygen -t rsa -b 4096 -C "aengland@gopfs.com"
