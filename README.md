@@ -1,4 +1,4 @@
-<p align="center"><img src="prestige_logo.png" alt="Prestige logo" width=50% height=50% /></p># 00000000_repo_conventions
+<p align="center"><img src="prestige_logo.png" alt="Prestige logo" width=50% height=50% /></p>
 
 ---
 
