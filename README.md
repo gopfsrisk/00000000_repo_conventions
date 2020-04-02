@@ -33,6 +33,8 @@ To clone, change, and push a **private** repository via SSH (from the terminal):
 1. Clone a repository:
 * ```git clone https://gopfsrisk:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>.git ``` (*Note*: do not include the "<" and ">" symbols)
 
+**Important**: entering credentials is only required on the **first** clone of a private repository. Subsequent clones and pushes should not require credentials. Thus they will act like a public repository (see below).
+
 2. Make changes locally.
 
 3. Push the repository back to GitHub:
