@@ -35,7 +35,7 @@ Note: keep the terminal open because you will need to know where to find your SS
 
 ---
 
-To clone, change, and push a repository via SSH (from the terminal):
+To clone, change, and push a **private** repository via SSH (from the terminal):
 
 1. Clone a repository:
 * ```git clone git@github.com:gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
@@ -47,6 +47,22 @@ To clone, change, and push a repository via SSH (from the terminal):
 * ```git add .```
 * ```git commit -m "Insert short note here."```
 * ```git remote add origin git@github.com:gopfsrisk/<insert_repo_name_here>.git```
+* ```git push origin master```
+
+---
+
+To clone, change, and push a **public** repository via SSH (from the terminal):
+
+1. Clone a repository:
+* ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
+
+2. Make changes locally.
+
+3. Push the repository back to GitHub:
+* ```git init```
+* ```git add .```
+* ```git commit -m "Insert short note here."```
+* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>.git```
 * ```git push origin master```
 
 
