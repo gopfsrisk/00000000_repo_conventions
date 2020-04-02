@@ -44,7 +44,7 @@ This profile has been created as a place for us to store the code we write safel
 To clone, change, and push a **private** repository via SSH (from the terminal):
 
 1. Clone a repository:
-* ```git clone git@github.com:gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
+* ```git clone git@github.com:gopfsrisk/<insert_repo_name_here>.git``` (*Note*: do not include the "<" and ">" symbols)
 
 2. Make changes locally.
 
@@ -62,7 +62,7 @@ To clone, change, and push a **private** repository via SSH (from the terminal):
 To clone, change, and push a **public** repository via SSH (from the terminal):
 
 1. Clone a repository:
-* ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
+* ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>.git``` (*Note*: do not include the "<" and ">" symbols)
 
 2. Make changes locally.
 
