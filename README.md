@@ -31,16 +31,16 @@ Getting Started:
 To clone, change, and push a repository via SSH (from the terminal):
 
 1. Clone a repository:
-a. ```git clone git@github.com:gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
+  a. ```git clone git@github.com:gopfsrisk/<insert_repo_name_here>.git``` (Note: do not include the "<" and ">" symbols)
 
 2. Make changes locally.
 
 3. Push the repository back to GitHub:
-a. ```git init```
-b. ```git add .```
-c. ```git commit -m "Insert short note here."```
-d. ```git remote add origin git@github.com:gopfsrisk/<insert_repo_name_here>.git```
-e. ```git push origin master```
+  a. ```git init```
+  b. ```git add .```
+  c. ```git commit -m "Insert short note here."```
+  d. ```git remote add origin git@github.com:gopfsrisk/<insert_repo_name_here>.git```
+  e. ```git push origin master```
 
 
 
