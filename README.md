@@ -35,6 +35,8 @@ Lastly, including a *brief* description of each project inside the project's ```
 
 ---
 
+## Working with private repositories
+
 To clone, change, and push a **private** repository via SSH (from the terminal):
 
 1. Clone a repository:
@@ -50,6 +52,8 @@ To clone, change, and push a **private** repository via SSH (from the terminal):
 * ```git push origin master```
 
 ---
+
+## Working with public repositories
 
 To clone, change, and push a **public** repository via SSH (from the terminal):
 
