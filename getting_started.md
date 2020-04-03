@@ -1,3 +1,7 @@
+<p align="center"><img src="github_image.jpg" alt="GitHub logo" width=50% height=50% /></p>
+
+---
+
 ## How to use GitHub
 
 ### [What is GitHub?](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
