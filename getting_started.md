@@ -16,7 +16,8 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ### Navigate to the [GitHub home page](https://github.com/) and click *Sign in*.
 
-![image info](file://img/1_github_home.png)
+<p align="center"><img src="img/1_github_home.png" alt="GitHub Home PAge" width=50% height=50% /></p>
+
 
 
 
