@@ -38,6 +38,10 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![Drag and Drop](img/7_drag_drop.PNG)
 
+### Scroll down and click the *Commit changes* button.
+
+![Commit Changes](img/8_commit_changes.PNG)
+
 
 
 
