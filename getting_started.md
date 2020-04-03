@@ -18,7 +18,7 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ---
 
-## Getting started:
+## Getting started (Prerequisite - [Install Git](https://git-scm.com/download/win)):
 
 ### Navigate to the [GitHub home page](https://github.com/) and click *Sign in*.
 
