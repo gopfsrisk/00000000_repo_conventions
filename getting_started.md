@@ -22,10 +22,6 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![Sign-in Page](img/2_sign_in.PNG)
 
-### The page will look similar to this:
-
-![Profile home](img/3_profile_home.PNG)
-
 ### Create a new repository by clicking on the *New* button.
 
 ![New Repo](img/4_new_repo.PNG)
