@@ -26,9 +26,19 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![Profile home](img/3_profile_home.PNG)
 
-### Create a new repository by clicking on the green *New* button.
+### Create a new repository by clicking on the *New* button.
 
 ![New Repo](img/4_new_repo.PNG)
+
+### Name the repository and select the *Private* radio button.
+
+![Name Repo](img/5_name_repo.PNG)
+
+### Scroll down, check the *Initialize this repository with a README*, and click the *Create repository* button.
+
+![README](img/6_readme.PNG)
+
+
 
 
 
