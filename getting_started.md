@@ -42,9 +42,47 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![Commit Changes](img/8_commit_changes.PNG)
 
+---
+
 ### Now, we can use the terminal to *clone* from and *push* to this repository.
 
+---
 
+### Working with private repositories:
+
+To clone, change, and push a **private** repository via SSH (from the terminal):
+
+1. Clone a repository:
+* ```git clone https://gopfsrisk:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>.git ``` (*Note*: do not include the "<" and ">" symbols)
+
+**Important**: entering credentials is only required on the **first** clone of a private repository. Subsequent clones and pushes should not require credentials. Thus they will act like a public repository (see below).
+
+2. Make changes locally.
+
+3. Push the repository back to GitHub:
+* ```git init```
+* ```git add .```
+* ```git commit -m "Insert short note here."```
+* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>.git```
+* ```git push origin master```
+
+---
+
+### Working with public repositories:
+
+To clone, change, and push a **public** repository via SSH (from the terminal):
+
+1. Clone a repository:
+* ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: do not include the "<" and ">" symbols)
+
+2. Make changes locally.
+
+3. Push the repository back to GitHub:
+* ```git init```
+* ```git add .```
+* ```git commit -m "Insert short note here."```
+* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>```
+* ```git push origin master```
 
 
 
