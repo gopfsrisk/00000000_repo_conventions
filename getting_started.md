@@ -42,6 +42,10 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![Commit Changes](img/8_commit_changes.PNG)
 
+### Now, we can use the terminal to *clone* from and *push* to this repository.
+
+
+
 
 
 
