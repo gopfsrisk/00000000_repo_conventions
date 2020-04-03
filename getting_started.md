@@ -4,7 +4,7 @@
 
 GitHub is a Git repository hosting service.
 
-## [What is Git?](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
+### [What is Git?](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 
 Git is an open-source version control system started by the creator of Linux (Linus Torvalds). Version control tracks revisions and stores the modifications in a central repository. This allows easy collaboration between and among a team as well as a way to roll back changes if a new alteration results in undesirable consequences.
 
@@ -25,6 +25,10 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 ### The page will look similar to this:
 
 ![Profile home](img/3_profile_home.PNG)
+
+### Create a new repository by clicking on the green *New* button.
+
+![New Repo](img/4_new_repo.PNG)
 
 
 
