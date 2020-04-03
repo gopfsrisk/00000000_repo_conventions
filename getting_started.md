@@ -34,6 +34,10 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![README](img/6_readme.PNG)
 
+### For the first *Commit* (i.e., file upload), the easiset way is to drag and drop the file from *File Explorer* onto the repository.
+
+![Drag and Drop](img/7_drag_drop.PNG)
+
 
 
 
