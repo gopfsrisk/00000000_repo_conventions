@@ -84,6 +84,12 @@ To clone, change, and push a **public** repository via SSH (from the terminal):
 * ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>```
 * ```git push origin master```
 
+---
+
+### This is far from a comprehensive lesson on GitHub functionality and terminal commands. But it encompasses almost all of what we will be using GitHub for.
+
+---
+
 
 
 

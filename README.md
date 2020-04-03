@@ -2,7 +2,7 @@
 
 ---
 
-## Welcome
+### Welcome
 
 Welcome to the GitHub profile for the Risk team at Prestige Financial Services.
 
@@ -10,7 +10,7 @@ This profile has been created as a place for us to store the code we write safel
 
 ---
 
-## Rules:
+### Rules:
 
 1. Name repositories using the following convention:
 * ```YYYYMMDD_project_name```
@@ -26,41 +26,8 @@ This profile has been created as a place for us to store the code we write safel
 
 ---
 
-## Working with private repositories:
+### To learn how to use GitHub click [here](getting_started.md)
 
-To clone, change, and push a **private** repository via SSH (from the terminal):
-
-1. Clone a repository:
-* ```git clone https://gopfsrisk:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>.git ``` (*Note*: do not include the "<" and ">" symbols)
-
-**Important**: entering credentials is only required on the **first** clone of a private repository. Subsequent clones and pushes should not require credentials. Thus they will act like a public repository (see below).
-
-2. Make changes locally.
-
-3. Push the repository back to GitHub:
-* ```git init```
-* ```git add .```
-* ```git commit -m "Insert short note here."```
-* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>.git```
-* ```git push origin master```
-
----
-
-## Working with public repositories:
-
-To clone, change, and push a **public** repository via SSH (from the terminal):
-
-1. Clone a repository:
-* ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: do not include the "<" and ">" symbols)
-
-2. Make changes locally.
-
-3. Push the repository back to GitHub:
-* ```git init```
-* ```git add .```
-* ```git commit -m "Insert short note here."```
-* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>```
-* ```git push origin master```
 
 
 
