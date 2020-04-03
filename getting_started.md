@@ -18,11 +18,13 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ![GitHub Home Page](img/1_github_home.PNG)
 
-
-
-
-
 ### Log-in to the ```gopfsrisk``` GitHub account.
+
+![Sign-in Page](img/2_sign_in.PNG)
+
+### The page will look similar to this:
+
+![Profile home](img/3_profile_home.PNG)
 
 
 
