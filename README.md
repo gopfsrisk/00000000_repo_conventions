@@ -32,7 +32,7 @@ This profile has been created as a place for us to store the code we write safel
 
 ---
 
-### To learn how to use GitHub click [here](getting_started.md).
+### To learn how to use GitHub click [here](doc/getting_started.md).
 
 
 
