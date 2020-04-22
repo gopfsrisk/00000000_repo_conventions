@@ -23,7 +23,7 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 ---
 
 ## Getting started with Teams 
-### - Prerequisites:
+### Prerequisites:
 - [Install Git](https://git-scm.com/download/win)
 - Create personal account
 - Request access to *gopfsrisk* organization)
