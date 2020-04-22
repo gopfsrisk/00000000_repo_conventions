@@ -1,5 +1,5 @@
 <p align="center">
-	<b><a href="README.md">Home</a></b> | <a href="doc/getting_started.md">Using GitHub</a>
+	<b><a href="README.md">Home</a></b> | <a href="doc/getting_started.md">Using GitHub Teams</a>
 </p>
 
 ---
@@ -32,7 +32,7 @@ This profile has been created as a place for us to store the code we write safel
 
 ---
 
-### To learn how to use GitHub click [here](doc/getting_started.md).
+### To learn how to use GitHub Teams click [here](doc/getting_started.md).
 
 
 

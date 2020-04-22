@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="../README.md">Home</a> | <b><a href="getting_started.md">Using GitHub</a></b>
+	<a href="../README.md">Home</a> | <b><a href="getting_started.md">Using GitHub Teams</a></b>
 </p>
 
 ---
