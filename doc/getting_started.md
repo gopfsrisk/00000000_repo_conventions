@@ -34,6 +34,8 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ### From your profile, find the *Organizations* area and click on the Utah Jazz logo to access the *gopfsrisk* organization.
 
+![Profile Page](../img/3_profile_home.PNG)
+
 ### Create a new repository by clicking on the *New* button.
 
 ![New Repo](../img/4_new_repo.PNG)
