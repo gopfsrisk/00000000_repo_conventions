@@ -124,7 +124,7 @@ Click *Add repository*.
 
 Enter the repository name, select it from the dropdown, and click *Add repository to team*.
 
-![Select Repository](../img/13_select_repository.png)
+![Select Repository](../img/13_select_repository.PNG)
 
 In the team's repositories, we can see the newly created repository.
 
