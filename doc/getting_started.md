@@ -8,7 +8,7 @@
 
 #
 
-## How to use GitHub
+## How to use GitHub Teams
 
 ### [What is GitHub?](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/)
 
@@ -22,15 +22,17 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ---
 
-## Getting started (Prerequisite - [Install Git](https://git-scm.com/download/win)):
+## Getting started with Teams (Prerequisites - [Install Git](https://git-scm.com/download/win), create personal account, and request access to *gopfsrisk* organization):
 
-### Navigate to the [GitHub home page](https://github.com/) and click *Sign in*.
+### Navigate to the [GitHub home page](https://github.com/) and click *Sign in* to access your personal account.
 
 ![GitHub Home Page](../img/1_github_home.PNG)
 
-### Log-in to the ```gopfsrisk``` GitHub account.
+### Log-in to your personal GitHub account.
 
 ![Sign-in Page](../img/2_sign_in.PNG)
+
+### From your profile, find the *Organizations* area and click on the Utah Jazz logo to access the *gopfsrisk* organization.
 
 ### Create a new repository by clicking on the *New* button.
 
@@ -58,12 +60,12 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ---
 
-### Working with private repositories:
+### Working with private repositories in teams:
 
-To clone, change, and push a **private** repository via SSH (from the terminal):
+To clone, change, and push a **private** repository to teams (from the terminal):
 
 1. Clone a repository:
-* ```git clone https://gopfsrisk:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>.git ``` (*Note*: do not include the "<" and ">" symbols)
+* ```git clone https://<insert_username_here>:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>.git ``` (*Note*: do not include the "<" and ">" symbols)
 
 **Important**: entering credentials is only required on the **first** clone of a private repository. Subsequent clones and pushes should not require credentials. Thus they will act like a public repository (see below).
 
@@ -73,14 +75,14 @@ To clone, change, and push a **private** repository via SSH (from the terminal):
 * ```git init```
 * ```git add .```
 * ```git commit -m "Insert short note here."```
-* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>.git```
+* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>.git``` (*Note*: this step may not be necessary)
 * ```git push origin master```
 
 ---
 
-### Working with public repositories:
+### Working with public repositories in teams:
 
-To clone, change, and push a **public** repository via SSH (from the terminal):
+To clone, change, and push a **public** repository in teams (from the terminal):
 
 1. Clone a repository:
 * ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: do not include the "<" and ">" symbols)
@@ -91,7 +93,7 @@ To clone, change, and push a **public** repository via SSH (from the terminal):
 * ```git init```
 * ```git add .```
 * ```git commit -m "Insert short note here."```
-* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>```
+* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: this step may not be necessary)
 * ```git push origin master```
 
 
