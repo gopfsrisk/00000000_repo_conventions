@@ -86,7 +86,7 @@ To clone, change, and push a repository in teams (from the terminal):
 * ```git push origin master```
 
 *Note*: if upon using the ```git push origin master``` command you are getting an SSL certificate error, use:
-```git -c push origin master ```
+```git -c http.SSLverify=false push origin master ```
 
 ---
 
@@ -115,7 +115,7 @@ To clone, change, and push a **private** repository to teams (from the terminal)
 * ```git push origin master```
 
 *Note*: if upon using the ```git push origin master``` command you are getting an SSL certificate error, use:
-```git -c push origin master ```
+```git -c http.SSLverify=false push origin master ```
 
 ---
 
