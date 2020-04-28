@@ -71,7 +71,10 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 To clone, change, and push a **private** repository to teams (from the terminal):
 
 1. Clone a repository:
-* ```git clone https://<insert_username_here>:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>.git ``` (*Note*: do not include the "<" and ">" symbols)
+* ```git clone https://<insert_username_here>:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>``` (*Note*: do not include the "<" and ">" symbols)
+
+*Note*: if you are getting an SSL certificate error, use:
+```git -c http.SSLverify=false clone https://<insert_username_here>:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>```
 
 **Important**: entering credentials is only required on the **first** clone of a private repository. Subsequent clones and pushes should not require credentials. Thus they will act like a public repository (see below).
 
@@ -81,8 +84,10 @@ To clone, change, and push a **private** repository to teams (from the terminal)
 * ```git init```
 * ```git add .```
 * ```git commit -m "Insert short note here."```
-* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>.git``` (*Note*: this step may not be necessary)
 * ```git push origin master```
+
+*Note*: if upon using the ```git push origin master``` command you are getting an SSL certificate error, use:
+```git -c push origin master ```
 
 ---
 
@@ -93,6 +98,9 @@ To clone, change, and push a **public** repository in teams (from the terminal):
 1. Clone a repository:
 * ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: do not include the "<" and ">" symbols)
 
+*Note*: if you are getting an SSL certificate error, use:
+```git -c http.SSLverify=false clone https://github.com/gopfsrisk/<insert_repository_name_here>```
+
 2. Make changes locally.
 
 3. Push the repository back to GitHub:
@@ -101,6 +109,9 @@ To clone, change, and push a **public** repository in teams (from the terminal):
 * ```git commit -m "Insert short note here."```
 * ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: this step may not be necessary)
 * ```git push origin master```
+
+*Note*: if upon using the ```git push origin master``` command you are getting an SSL certificate error, use:
+```git -c push origin master ```
 
 ---
 
