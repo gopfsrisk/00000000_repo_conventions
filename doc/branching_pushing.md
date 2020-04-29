@@ -1,4 +1,12 @@
+<p align="center">
+	<a href="../README.md">Home</a> | 
+	<a href="what_is_git.md">What is Git?</a> |
+	<a href="creating_repo.md">Creating Repository</a> |
+	<a href="add_repo_to_team.md">Add Repository to a Team</a> |
+	<b><a href="branching_pushing.md">Branching and Pushing Files</a></b>
+</p>
 
+---
 
 ## Working with repositories in teams:
 
