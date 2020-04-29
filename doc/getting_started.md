@@ -62,13 +62,13 @@ GitHub is perfect for data analytics and data science for the same reasons it is
 
 ---
 
-### Now, we can use the terminal to *clone* from and *push* to this repository.
+### Now, we can use the terminal to *clone* from, *branch*, and *push* to this repository.
 
 ---
 
 ### Working with repositories in teams:
 
-To clone, change, and push a repository in teams (from the terminal):
+To clone, branch, change, and push a repository in teams (from the terminal):
 
 1. Clone a repository:
 * ```git clone https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: do not include the "<" and ">" symbols)
@@ -76,46 +76,28 @@ To clone, change, and push a repository in teams (from the terminal):
 *Note*: if you are getting an SSL certificate error, use:
 ```git -c http.SSLverify=false clone https://github.com/gopfsrisk/<insert_repository_name_here>```
 
-2. Make changes locally.
+2. CD into the directory named after the repository (or, open a terminal in that directory):
+* ```cd <insert_repository_name_here>
 
-3. Push the repository back to GitHub:
-* ```git init```
+3. Create a new branch:
+* ```git checkout -b branch_name```
+
+4. Confirm that the newly created branch exists:
+* ```git branch```
+
+5. Make changes locally (i.e., add code/files/etc.).
+
+6. Add all of the changes to the branch:
 * ```git add .```
+
+7. Write a brief commit message decribing what was done:
 * ```git commit -m "Insert short note here."```
-* ```git remote add origin https://github.com/gopfsrisk/<insert_repo_name_here>``` (*Note*: this step may not be necessary)
-* ```git push origin master```
 
-*Note*: if upon using the ```git push origin master``` command you are getting an SSL certificate error, use:
-```git -c http.SSLverify=false push origin master ```
+8. Push the branch back to GitHub:
+* ```git push --set-upstream origin branch_name```
 
----
-
-If an error occurs when trying to clone a repository that says something about the repository not existing then it has to do with that repository being private. This should not be an issue since we all have writw access to the repositories in our organization, but if this is an issue see below for working with private repositories.
-
----
-
-### Working with private repositories in teams:
-
-To clone, change, and push a **private** repository to teams (from the terminal):
-
-1. Clone a repository:
-* ```git clone https://<insert_username_here>:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>``` (*Note*: do not include the "<" and ">" symbols)
-
-*Note*: if you are getting an SSL certificate error, use:
-```git -c http.SSLverify=false clone https://<insert_username_here>:<insert_password_here>@github.com/gopfsrisk/<insert_repository_name_here>```
-
-**Important**: entering credentials is only required on the **first** clone of a private repository. Subsequent clones and pushes should not require credentials. Thus they will act like a public repository (see below).
-
-2. Make changes locally.
-
-3. Push the repository back to GitHub:
-* ```git init```
-* ```git add .```
-* ```git commit -m "Insert short note here."```
-* ```git push origin master```
-
-*Note*: if upon using the ```git push origin master``` command you are getting an SSL certificate error, use:
-```git -c http.SSLverify=false push origin master ```
+*Note*: if upon using the ```git push --set-upstream origin branch_name``` command you are getting an SSL certificate error, use:
+```git -c http.SSLverify=false push --set-upstream origin branch_name```
 
 ---
 
