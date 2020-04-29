@@ -1,9 +1,9 @@
 <p align="center">
 	<a href="../README.md">Home</a> | 
-	<b><a href="doc/what_is_git.md">What is Git?</a></b> |
-	<a href="doc/creating_repo.md">Creating Organization Repository</a> |
-	<a href="doc/add_repo_to_team.md">Add Organization Repository to a Team</a> |
-	<a href="doc/branching_pushing.md">Branching and Pushing Files</a>
+	<a href="what_is_git.md">What is Git?</a> |
+	<b><a href="creating_repo.md">Creating Organization Repository</a></b> |
+	<a href="add_repo_to_team.md">Add Organization Repository to a Team</a> |
+	<a href="branching_pushing.md">Branching and Pushing Files</a>
 </p>
 
 ---
@@ -49,4 +49,4 @@
 
 ---
 
-### Now that we have a repository in our organization, we need to add that to a team.
+### Now that we have a repository in our organization, we need to [add it to a team](add_repo_to_team.md).
