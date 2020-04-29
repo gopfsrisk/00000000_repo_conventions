@@ -36,7 +36,7 @@ This organization has been created as a place for us to store the code we write,
 
 ---
 
-### To learn how to use GitHub Teams click [here](doc/getting_started.md).
+### To learn more about Git click [here](doc/what_is_git.md).
 
 
 
