@@ -14,9 +14,9 @@
 
 ## Welcome
 
-Welcome to the GitHub profile for the Risk team at Prestige Financial Services.
+Welcome to the GitHub for the Risk team at Prestige Financial Services.
 
-This profile has been created as a place for us to store the code we write safely and with version control.
+This organization has been created as a place for us to store the code we write, collaborate on projects, all with version control.
 
 ---
 
