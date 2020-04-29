@@ -1,5 +1,14 @@
+<p align="center">
+	<a href="../README.md">Home</a> | 
+	<a href="what_is_git.md">What is Git?</a> |
+	<a href="creating_repo.md">Creating Organization Repository</a> |
+	<b><a href="add_repo_to_team.md">Add Organization Repository to a Team</a></b> |
+	<a href="branching_pushing.md">Branching and Pushing Files</a>
+</p>
 
-## Add repository to *team*:
+---
+
+## Adding an Organization Repository to a *Team*
 
 After the repository has been created within the *gopfsrisk* organization, from within the oroganization, click *Teams*.
 
