@@ -1,6 +1,14 @@
+<p align="center">
+	<a href="../README.md">Home</a> | 
+	<b><a href="doc/what_is_git.md">What is Git?</a></b> |
+	<a href="doc/creating_repo.md">Creating Organization Repository</a> |
+	<a href="doc/add_repo_to_team.md">Add Organization Repository to a Team</a> |
+	<a href="doc/branching_pushing.md">Branching and Pushing Files</a>
+</p>
 
+---
 
-## Creating Repository within Organization
+## Creating a Repository within an Organization
 
 ### Prerequisites:
 - [Install Git](https://git-scm.com/download/win)
