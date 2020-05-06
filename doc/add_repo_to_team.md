@@ -36,4 +36,4 @@ In the team's repositories, we can see the newly created repository.
 
 ---
 
-### Now, we can use the terminal to [*clone* from and *push*](branching_pushing.md) to this repository.
+### Now, we can use the terminal to [*clone* from and *push*](pushing.md) to this repository.
