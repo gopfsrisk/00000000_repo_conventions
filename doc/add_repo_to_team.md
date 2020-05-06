@@ -3,7 +3,7 @@
 	<a href="what_is_git.md">What is Git?</a> |
 	<a href="creating_repo.md">Creating Repository</a> |
 	<b><a href="add_repo_to_team.md">Add Repository to a Team</a></b> |
-	<a href="branching_pushing.md">Branching and Pushing Files</a>
+	<a href="pushing.md">Pushing Files</a>
 </p>
 
 ---
@@ -36,4 +36,4 @@ In the team's repositories, we can see the newly created repository.
 
 ---
 
-### Now, we can use the terminal to [*clone* from, *branch*, and *push*](branching_pushing.md) to this repository.
+### Now, we can use the terminal to [*clone* from and *push*](branching_pushing.md) to this repository.

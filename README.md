@@ -3,7 +3,7 @@
 	<a href="doc/what_is_git.md">What is Git?</a> |
 	<a href="doc/creating_repo.md">Creating Repository</a> |
 	<a href="doc/add_repo_to_team.md">Add Repository to a Team</a> |
-	<a href="doc/branching_pushing.md">Branching and Pushing Files</a>
+	<a href="doc/pushing.md">Pushing Files</a>
 </p>
 
 ---
